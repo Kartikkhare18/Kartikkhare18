@@ -16,7 +16,7 @@
 
 I am a grad student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at Amity University Madhya Pradesh.
 
-- :telescope: I am a UG student learning frontend development and java programming for building awesome applications.
+- :telescope: I am a UG student learning frontend development and java programming for developing awesome applications.
 
 - :seedling: Exploring opportunities.
 
