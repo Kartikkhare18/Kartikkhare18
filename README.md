@@ -20,7 +20,7 @@ I am a grad student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Exploring opportunities.
 
-- :zap: In my free time, I love to watch anime read comics.
+- :zap: In my free time, I love to watch anime and read comics.
 
 ---
 
