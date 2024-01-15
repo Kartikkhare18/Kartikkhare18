@@ -3,11 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!--view count-->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kartikkhare18&style=flat-square&color=blue" alt="view count"/>
-</div>
-
 <!-- hey there-->
 <h1 align="center">
   hey there
