@@ -8,22 +8,30 @@
 <img src="https://komarev.com/ghpvc/?username=Kartikkhare18&style=flat-square&color=blue" alt="view count"/>
 </div>
 
+<!-- hey there-->
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <!--big gif-->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
 
-I am a grad student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at Amity University Madhya Pradesh.
+I am a UG student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at Amity University Madhya Pradesh.
 
-- :telescope: I am a UG student learning frontend development and java programming to develop awesome applications.
+- :telescope: Passionate about Core Java, diving into C++ for Data Structures and Algorithms, and exploring the MERN stack for web development. 🚀 #Java #DSA #MERN
 
-- :seedling: Exploring opportunities.
+- :seedling: Computer Science student with a budding interest in programming and technology. #CSE #CodingJourney
 
-- :zap: In my free time, I love to watch anime and read comics.
+- :movie_camera: In my free time, you'll often find me indulging in the world of anime and movies.
+
+- :books: Always eager to learn and share knowledge within the tech community.
 
 ---
 
@@ -32,9 +40,17 @@ I am a grad student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width=40"" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css" width=40"" height="40"/>&nbsp;
-  </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind-css" width=40"" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width=40"" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" width=40"" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" width=40"" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" width=40"" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" width=40"" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" width=40"" height="40"/>&nbsp;
+</div>
   
   ---
 
