@@ -55,3 +55,5 @@ I am a UG student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkhare18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Kartik_Khare18?ext=heatmap)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kartik_Khare18?theme=dark)
