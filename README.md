@@ -54,4 +54,4 @@ I am a UG student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkhare18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Kartik_Khare18/)
+![](https://leetcard.jacoblin.cool/https:/https://leetcode.com/Kartik_Khare18//?site=cn)
