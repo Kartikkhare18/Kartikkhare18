@@ -20,9 +20,9 @@
 
 I am a UG student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at Amity University Madhya Pradesh.
 
-- :telescope: Passionate about Core Java, diving into C++ for Data Structures and Algorithms, and exploring the MERN stack for web development. 🚀 #Java #DSA #MERN
-
 - :seedling: Computer Science student with a budding interest in programming and technology. #CSE #CodingJourney
+
+- :telescope: Passionate about Core Java, diving into C++ for Data Structures and Algorithms, and exploring the MERN stack for web development. 🚀 #Java #DSA #MERN
 
 - :movie_camera: In my free time, you'll often find me indulging in the world of anime and movies.
 
@@ -32,7 +32,6 @@ I am a UG student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width=40"" height="40"/>&nbsp;
